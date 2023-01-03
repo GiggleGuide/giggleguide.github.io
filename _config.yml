@@ -1,0 +1,6 @@
+title: GiggleGuide
+description: Like WikiHow, but joke.
+baseurl: /
+url: https://giggleguide.github.io
+markdown: kramdown
+theme: minima
